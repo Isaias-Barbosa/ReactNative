@@ -1,6 +1,8 @@
 ReactNativeProject
 PROJETO DE TAREFAS
+
+
 Nomes
-Miriam Fernandes de Carvalho 202003238554
+<h1>Miriam Fernandes de Carvalho 202003238554</h1>
 Nomes
-Isaias Barbosa de Oliveira 202003211877
+<h1>Isaias Barbosa de Oliveira 202003211877</h1>
